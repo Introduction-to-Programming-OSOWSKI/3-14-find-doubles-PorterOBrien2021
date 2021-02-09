@@ -1,4 +1,9 @@
 def findDoubles(w):
     for i in range (0, len(w)):
-        if i == 3
-        return true
+        if i == [w]:
+            return "true"
+        else:
+            return "false"
+
+
+print(findDoubles("pool"))
